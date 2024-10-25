@@ -1,0 +1,9 @@
+h2 {
+    color: rgb(211, 20, 20);
+    text-decoration: underline;
+}
+p {color: rgb(0, 132, 255);}
+
+a :active{
+    text-decoration: none;
+}
